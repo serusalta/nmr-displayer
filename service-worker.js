@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nmr-displayer/precache-manifest.e1b679d80eb7e362c907be7b5bc7f143.js"
+  "/nmr-displayer/precache-manifest.a80176c0a7dfdf597ba803a151486a1f.js"
 );
 
 self.addEventListener('message', (event) => {
