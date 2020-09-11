@@ -25,7 +25,7 @@ const styles = {
   mainContainer: {
     display: 'flex',
     flexDirection: 'column',
-    height: '100%',
+    height: '130%',
   },
   nmrContainer: {
     height: '60%',
@@ -132,8 +132,8 @@ export default function Exercise(props) {
       }}
     >
       <h5 className="title">
-        Exercises: Determine the unknown structure for the compound having the
-        following NMR spectrum
+        Determine la estructura del compuesto desconicido
+        a partir de su espectro de NMR
       </h5>
       <p className="category">{title}</p>
       <div style={styles.mainContainer}>
