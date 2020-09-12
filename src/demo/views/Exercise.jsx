@@ -25,10 +25,10 @@ const styles = {
   mainContainer: {
     display: 'flex',
     flexDirection: 'column',
-    height: '130%',
+    height: '100%',
   },
   nmrContainer: {
-    height: '60%',
+    height: '100%',
   },
 
   bottomContainer: {
@@ -37,11 +37,11 @@ const styles = {
   bottomRightContainer: {
     width: '50%',
     display: 'flex',
-    height: '100%',
+    height: '80%',
     flexDirection: 'column',
   },
   MF: {
-    height: '20%',
+    height: '30%',
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'center',
@@ -132,10 +132,9 @@ export default function Exercise(props) {
       }}
     >
       <h5 className="title">
-        Determine la estructura del compuesto desconicido
-        a partir de su espectro de NMR
+        Determine la estructura del compuesto desconocido a partir de su espectro de RMN
       </h5>
-      <p className="category">{title}</p>
+      <p className="name">{title}</p>
       <div style={styles.mainContainer}>
         <div style={styles.nmrContainer}>
           <NMRDisplayer
@@ -185,11 +184,11 @@ export default function Exercise(props) {
                 }}
               >
                 {resultFlag == null ? (
-                  <p>Result</p>
+                  <p>Resultado</p>
                 ) : resultFlag === true ? (
-                  <p>Right Molecule</p>
+                  <p>Molecula correcta!</p>
                 ) : (
-                  <p>Wrong Molecule !!</p>
+                  <p>Molecula incorrecta!!</p>
                 )}
               </div>
             </div>

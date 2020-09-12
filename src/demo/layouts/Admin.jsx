@@ -102,7 +102,7 @@ class Dashboard extends React.Component {
         />
         <div className="main-panel" ref={this.mainPanel}>
           {/* <Router {...this.props}> */}
-          <Suspense fallback={<div>Loading...</div>}>
+          <Suspense fallback={<div>Cargando...</div>}>
             <Switch>
               {this.state.routesList.map((prop) => (
                 <Route

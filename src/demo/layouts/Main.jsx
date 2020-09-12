@@ -149,19 +149,19 @@ const Main = (props) => {
       >
         {data.status === 200 ? (
           <div>
-            <p style={styles.normalHeader}>Please wait</p>
-            <p>We will redirect you in a minute</p>
+            <p style={styles.normalHeader}>Por favor espere</p>
+            <p>Será redirigido en unos segundos</p>
           </div>
         ) : (
           <div>
             <p style={styles.errorHeader}>404</p>
-            <p>Resource not found.</p>
+            <p>Recurso no encontrado.</p>
             <button
               style={styles.loadButton}
               type="button"
               onClick={loadHandler}
             >
-              Load local samples
+              Cargar archivos locales
             </button>
           </div>
         )}

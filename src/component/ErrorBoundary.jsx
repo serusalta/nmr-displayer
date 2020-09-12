@@ -40,7 +40,7 @@ class ErrorBoundary extends React.Component {
       // Error path
       return (
         <div style={styles.container}>
-          <p style={styles.header}>Something went wrong.</p>
+          <p style={styles.header}>Algo asió mal.</p>
           <details style={styles.body}>
             {this.state.error && this.state.error.toString()}
             <br />
