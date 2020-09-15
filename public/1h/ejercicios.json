@@ -30,7 +30,7 @@
     },
     {
     "file": "./01-02-03/1h.json",
-    "title": "δ 1.00 (3H, t, J = 7.6 Hz), 1.96 (2H, t, J = 7.6), 5.29 (1H, t, J = 7.6 Hz)",
+    "title": "δ 1.00 (3H, t, J = 7.6 Hz), 1.96 (2H, quint, J = 7.6), 5.29 (1H, t, J = 7.6 Hz)",
     "view": "ExerciseExport"
     },
     {
