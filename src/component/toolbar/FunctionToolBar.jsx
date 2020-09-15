@@ -68,7 +68,8 @@ const FunctionToolBar = ({
         ].includes(selectedTool)
       ) {
         alert.show(
-          'Press Shift + Left Mouse button to select zone for integral and peak picking',
+          'Shift + Botón izquierdo del mouse para seleccionar zona de integral y Peak picking',
+          //'Left Mouse button to select zone for integral and peak picking',
         );
       }
       dispatch({ type: SET_SELECTED_TOOL, selectedTool });
@@ -187,7 +188,7 @@ const FunctionToolBar = ({
             helpID="zoomIn"
           >
             <ToolTip
-              title={`${options.zoom.label} ( Press z )`}
+              title={`${options.zoom.label} ( Presione z )`}
               popupPlacement="right"
               offset={{ x: 10, y: 0 }}
             >
@@ -203,7 +204,7 @@ const FunctionToolBar = ({
             onClick={handleFullZoomOut}
           >
             <ToolTip
-              title="Horizontal zoom out ( Press f ), Horizontal and Vertical zoom out, double click ( Press ff )"
+              title="Deshacer zoom horizontal ( f ), Deshacer zoom vertical y horizontal, doble click ( ff )"
               popupPlacement="right"
             >
               <FaExpand />
@@ -227,7 +228,7 @@ const FunctionToolBar = ({
               helpID="peakPicking"
             >
               <ToolTip
-                title={`${options.peakPicking.label} ( Press p )`}
+                title={`${options.peakPicking.label} ( Presione p )`}
                 popupPlacement="right"
                 offset={{ x: 10, y: 0 }}
               />
@@ -249,7 +250,7 @@ const FunctionToolBar = ({
               helpID="integralPicking"
             >
               <ToolTip
-                title={`${options.integral.label} ( Press i )`}
+                title={`${options.integral.label} ( Presione i )`}
                 popupPlacement="right"
                 offset={{ x: 10, y: 0 }}
               />
@@ -259,7 +260,7 @@ const FunctionToolBar = ({
           isButtonVisible('hideIntegralTool') && (
             <ToggleButton key={options.zone2D.id} value={options.zone2D.id}>
               <ToolTip
-                title={`${options.zone2D.label} ( Press i  )`}
+                title={`${options.zone2D.label} ( Presione i )`}
                 popupPlacement="right"
                 offset={{ x: 10, y: 0 }}
               >

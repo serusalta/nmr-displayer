@@ -5,12 +5,12 @@
     {
     "file": "./01-01-01/1h.json",
     "title": "δ 2.20 (12H, s), 6.72 (2H, s)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     },
     {
     "file": "./01-01-02/1h.json",
     "title": "δ 1.23 (6H, t, J = 7.0 Hz), 4.02 (4H, q, J = 7.0 Hz), 6.82 (4H, s)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     }
                ]
   },
@@ -21,22 +21,22 @@
     {
     "file": "./01-02-01/1h.json",
     "title": "δ 2.09 (2H, quint, J = 6.8 Hz), 3.58 (4H, t, J = 6.8 Hz)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     },
     {
     "file": "./01-02-02/1h.json",
     "title": "δ 1.36 (6H, s)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     },
     {
     "file": "./01-02-03/1h.json",
     "title": "δ 1.00 (3H, t, J = 7.6 Hz), 1.96 (2H, t, J = 7.6), 5.29 (1H, t, J = 7.6 Hz)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     },
     {
     "file": "./01-02-04/1h.json",
     "title": "δ 1.39 (3H, d, J = 6.5 Hz), 3.85 (2H, d, J = 6.5 Hz), 4.20 (1H, sext, J = 6.5)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     }
                 ]
   },
@@ -46,7 +46,7 @@
     {
     "file": "./01-03-01/1h.json",
     "title": "δ 1.46 (6H, s), 2.86 (1H, s)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     }  
                 ]
   },
@@ -56,12 +56,12 @@
     {
     "file": "./01-04-01/1h.json",
     "title": "δ 6.63 (1H, d, J = 9.7 Hz), 7.84 (1H, d, J = 9.7 Hz)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     },
     {
     "file": "./01-04-02/1h.json",
     "title": "δ 6.06 (1H, d, J = 13.2 Hz), 7.67 (1H, d, J = 13.2 Hz)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     }
                 ]
   },
@@ -71,17 +71,17 @@
     {
     "file": "./01-05-01/1h.json",
     "title": "δ 2.24 (3H, s), 5.95 (1H, dd, J = 10.9, 1.5 Hz), 6.36 (dd, J = 17.0, 1.5 Hz), 6.46 (dd, J = 17.0, 10.9 Hz)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     },
     {
     "file": "./01-05-02/1h.json",
     "title": "δ 1.29 (3H, d, J = 6.3 Hz), 4.01 (1H, dq, J = 7.3, 6.3 Hz), 4.94-5.09 (2H, 4.99 (dd, J = 16.5, 1.4 Hz), 5.05 (dd, J = 10.7, 1.4 Hz)), 5.74 (1H, ddd, J = 16.5, 10.7, 7.3 Hz)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     },
     {
     "file": "./01-05-03/1h.json",
     "title": "δ 0.99 (3H, t, J = 7.1 Hz), 1.99 (2H, dq, J = 7.2, 7.1 Hz), 5.26 (1H, dt, J = 13.8, 7.2 Hz), 6.18 (1H, d, J = 13.8 Hz)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     }
                 ]
   },
@@ -91,7 +91,7 @@
     {
     "file": "./01-06-01/1h.json",
     "title": "δ 0.96 (3H, t, J = 7.6 Hz), 1.86 (2H, quint, J = 7.6 Hz), 4.04 (1H, t, J = 7.5 Hz)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     }
                 ]
   },
@@ -101,7 +101,7 @@
     {
     "file": "./01-07-01/1h.json",
     "title": "δ 1.23 (3H, t, J = 7.0 Hz), 2.05 (3H, s), 4.01 (2H, q, J = 7.0 Hz), 6.64 (2H, ddd, J = 8.8, 2.7, 0.5 Hz), 7.15 (2H, ddd, J = 8.8, 2.0, 0.5 Hz)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     }
                 ]
   },
@@ -111,87 +111,87 @@
     {
     "file": "./01-08-01/1h.json",
     "title": "δ 3.52 (4H, s)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     },
     {
     "file": "./01-08-02/1h.json",
     "title": "δ 2.15 (3H, s), 3.59 (2H, s), 7.11 (2H, m), 7.28 (3H, m)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     },
     {
     "file": "./01-08-03/1h.json",
     "title": "δ 1.00 (3H, t, J = 7.4 Hz), 2.12 (3H, s), 2.43 (2H, q, J = 7.4 Hz)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     },
     {
     "file": "./01-08-04/1h.json",
     "title": "δ 2.96 (2H, t, J = 7.5 Hz), 3.47 (2H, t, J = 7.5 Hz), 7.25 (5H, m)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     },
     {
     "file": "./01-08-05/1h.json",
     "title": "δ 2.27 (3H, s), 7.66 (5H, m)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     },
     {
     "file": "./01-08-06/1h.json",
     "title": "δ 3.53 (8H, s)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     },
     {
     "file": "./01-08-07/1h.json",
     "title": "δ 1.00 (3H, t, J = 7.4 Hz), 2.12 (3H, s), 2.43 (2H, q, J = 7.4 Hz)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     },
     {
     "file": "./01-08-08/1h.json",
     "title": "δ 1.17 (6H, d, J = 6.2 Hz), 3.60 (1H, sept, J = 6.2 Hz)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     },
     {
     "file": "./01-08-09/1h.json",
     "title": "δ 1.02 (3H, t, J = 7.4 Hz), 2.63 (2H, q, J = 7.4 Hz), 7.56 (3H, m), 7.95 (2H, m)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     },
     {
     "file": "./01-08-10/1h.json",
     "title": "δ 0.94 (6H, d, J = 6.7 Hz), 1.82 (1H, n, J = 6.7 Hz), 3.14 (2H, d, J = 6.7 Hz)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     },
     { 
     "file": "./01-08-11/1h.json",
     "title": "δ 0.92 (3H, t, J = 7.6 Hz), 1.70 (2H, qt, J = 7.6, 7.2 Hz), 3.29 (2H, t, J = 7.2 Hz)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     },
     {
     "file": "./01-08-12/1h.json",
     "title": "δ 1.06 (6H, t, J = 7.3 Hz), 2.50 (4H, q, J = 7.3 Hz)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     },
     {
     "file": "./01-08-13/1h.json",
     "title": "δ 1.08 (6H, d, J = 7.0 Hz), 2.13 (3H, s), 2.33 (1H, sept, J = 7.0 Hz)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     },
     {
     "file": "./01-08-14/1h.json",
     "title": "δ 2.27 (3H, s), 7.66 (5H, m)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     },
     {
     "file": "./01-08-15/1h.json",
     "title": "δ 2.23 (3H, s), 2.33 (3H, s), 7.15 (2H, ddd, J = 8.5, 1.2, 0.4 Hz), 7.90 (2H, ddd, J = 8.5, 1.7, 0.4 Hz)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     },
     {
     "file": "./01-08-16/1h.json",
     "title": "δ 3.81 (3H, s), 7.52 (3H, m), 8.03 (2H, m)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     },
     {
     "file": "./01-08-17/1h.json",
     "title": "δ 1.13 (12H, d, J = 6.2 Hz), 3.74 (2H, sept, J = 6.2 Hz)",
-    "view": "Exercise"
+    "view": "ExerciseExport"
     }
                 ]
   }

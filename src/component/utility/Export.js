@@ -98,7 +98,8 @@ function copyPNGToClipboard(elementID) {
     if (e instanceof ReferenceError) {
       // eslint-disable-next-line no-alert
       alert(
-        'Your browser does not support this feature, please use Google Chrome',
+            'Su explorador no soporta esta característica, por favor use Google Chrome'
+          //'Your browser does not support this feature, please use Google Chrome',
       );
     }
     // eslint-disable-next-line no-console

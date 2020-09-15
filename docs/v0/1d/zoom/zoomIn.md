@@ -1,6 +1,6 @@
 #### Zoom In
 
-To activate the zoom function press the button or press key "z". Than you can mark the interested area of the spectra with the left mouse button. This area is scaled up.
+Para activar la función zoom presiones la tecla "z". Luego puede marcar el área de interés del espectro con el botón izquierdo del mouse. Este area será agrandada.
 
 ![image](images/zoom-in.gif)
 

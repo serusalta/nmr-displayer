@@ -95,7 +95,8 @@ const BasicToolBar = ({
   );
   const saveToClipboardHandler = useCallback(() => {
     dispatch({ type: EXPORT_DATA, exportType: 'copy' });
-    alert.show('Spectrum copied to clipboard');
+       alert.show('Espectro copiado al clipboard');
+    // alert.show('Spectrum copied to clipboard');
   }, [alert, dispatch]);
   const saveAsJSONHandler = useCallback(
     () => dispatch({ type: EXPORT_DATA, exportType: 'json' }),
@@ -173,7 +174,8 @@ const BasicToolBar = ({
         dispatch({ type: LOAD_JCAMP_FILE, files: [file] });
         modal.close();
       } else {
-        alert.error('you file must be one of those extensions [ .jdx, dx ] ');
+        alert.error('su archivo debe tener una de estas extensiones [ .jdx, dx ] ');
+        //alert.error('you file must be one of those extensions [ .jdx, dx ] ');
       }
     },
     [alert, dispatch, modal],
